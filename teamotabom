@@ -8,7 +8,6 @@ DOCTYPE html>
     <script></script>
 </head>
 
-
 <body>
     <div id="content">
         <h2>Volta pra mim?</h2>
@@ -56,7 +55,6 @@ DOCTYPE html>
     function geraPosicao(min, max) {
         return (Math.random() * (max - min) + min) + "%";
     }
-
 </script>
 
 </html>
